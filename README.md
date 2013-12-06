@@ -1,5 +1,1 @@
-test
-====
-Doing some testing
-
-Second commit
+Install from Web tab for Joomla! installer
